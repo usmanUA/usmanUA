@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hello, I'm Usman Ahmed<br><br><br>From Quantum Chemistry to Code: Evolving into a Polyglot Programmer</h1>
+<h1 align="center">Hello, I'm Usman Ahmed</h1>
 
 ###
 
