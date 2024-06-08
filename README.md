@@ -12,11 +12,11 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h1 align="center">Hello, I'm Usman Ahmed<br><br><br>From Quantum Chemistry to Code: Evolving into a Polyglot Programmer</h1>
 
 ###
 
-<h1 align="center">Hello, I'm Usman Ahmed<br><br><br>From Quantum Chemistry to Code: Evolving into a Polyglot Programmer</h1>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
