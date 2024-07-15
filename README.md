@@ -16,14 +16,6 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
-
-###
-
-<p align="left">I am a passionate Software Engineering student with a strong foundation in programming and problem-solving. My journey in technology is fueled by a curiosity for how things work at both the macro and micro levels.<br><br>I have completed a comprehensive training program in Big Data Analytics, which included six specialized courses in machine learning and data analysis. Through this program, I developed projects that uncover insights from vast datasets. But my academic journey doesn't stop there. I am also on the verge of earning my Doctoral Degree in Quantum Computational Chemistry, which has honed my expertise in high-performance computing and parallelization.<br><br>Combining my skills in software development, data science, and quantum chemistry, I aim to push the boundaries of what's possible through innovative and interdisciplinary approaches.</p>
-
-###
-
 <h3 align="left">🛠 Languages and Tools</h3>
 
 ###
