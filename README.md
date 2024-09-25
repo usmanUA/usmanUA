@@ -55,13 +55,25 @@ Containers for NGINX, WordPress, MariaDB, FTP, and Redis, designed to provide a 
 ### 3. [cub3D](https://github.com/usmanUA/cub3D)
 A simple ray-caster.
 
+### 4. [minishell](https://github.com/usmanUA/minishell)
+Self-coded shell taking bash as a reference.
+
+### 5. [philosophers](https://github.com/usmanUA/42-philosophers)
+Multi-threaded simulation of famous dining philosoers problem in C.
+
 ## School Projects for learning Data Science
-### 4. [MLP](https://github.com/usmanUA/MLP-MultilayerPerceptron)
-Multilayer perceptron to train health data.
+### 6. [MLP - Multilayer Perceptron](https://github.com/usmanUA/MLP-MultilayerPerceptron)
+Multilayer perceptron in python using Numpy only.
+
+### 7. [DSLR - Logistic Regression](https://github.com/usmanUA/DSLR-LogisticRegression)
+Logistic Regression model in python using Numpy only.
 
 ## Side Project for learning Go
-### 5. [REST API with Go](https://github.com/usmanUA/go-REST-API)
+### 8. [REST API with Go](https://github.com/usmanUA/go-REST-API)
 A RESTful API built using Go, designed for high performance and scalability, with a focus on clean code practices.
+
+### 9. [philosophers](https://github.com/usmanUA/42-philosophers)
+Multi-threaded simulation of famous dining philosoers problem in Go.
 
 ## 🧠 What I’m Learning
 
