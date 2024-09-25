@@ -59,7 +59,7 @@ A simple ray-caster.
 Self-coded shell taking bash as a reference.
 
 ### 5. [philosophers](https://github.com/usmanUA/42-philosophers)
-Multi-threaded simulation of famous dining philosoers problem in C.
+Multi-threaded simulation of famous dining philosophers problem in C.
 
 ## School Projects for learning Data Science
 ### 6. [MLP - Multilayer Perceptron](https://github.com/usmanUA/MLP-MultilayerPerceptron)
@@ -73,7 +73,7 @@ Logistic Regression model in python using Numpy only.
 A RESTful API built using Go, designed for high performance and scalability, with a focus on clean code practices.
 
 ### 9. [philosophers](https://github.com/usmanUA/42-philosophers)
-Multi-threaded simulation of famous dining philosoers problem in Go.
+Multi-threaded simulation of famous dining philosophers problem in Go.
 
 ## 🧠 What I’m Learning
 
