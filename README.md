@@ -40,3 +40,39 @@
 ###
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanUA&layout=compact&theme=radical)
+
+# 🚀 Projects
+
+Here's a selection of my recent work. Check out my repositories for more details!
+
+## School Projects for learning C and C++
+### 1. [webserv](https://github.com/usmanUA/webserv)
+A performant web server built from scratch using C++, focusing on concurrency and optimization.
+
+### 2. [inception](https://github.com/usmanUA/inception)
+Containers for NGINX, WordPress, MariaDB, FTP, and Redis, designed to provide a seamless web development environment.
+
+### 3. [cub3D](https://github.com/usmanUA/cub3D)
+A simple ray-caster.
+
+## Side Project for learning Go
+### 4. [REST API with Go](https://github.com/usmanUA/go-REST-API)
+A RESTful API built using Go, designed for high performance and scalability, with a focus on clean code practices.
+
+## 🧠 What I’m Learning
+
+- Advanced C and C++ for system-level programming (Hive Helsinki)
+- AI-driven solutions for real-world problems (Hive Helsinki)
+- Full-Stack development from FullStackOpen (University of Helsinki)
+
+## 💬 Get in Touch
+- [Email](mailto:usmantarar11@gmail.com)
+
+## ⚡ Fun Fact
+
+When I'm not coding, I love exploring the latest trends in AI and trying out new programming languages!
+
+---
+
+Feel free to explore my repositories and reach out if you want to collaborate or just chat about tech!
+
