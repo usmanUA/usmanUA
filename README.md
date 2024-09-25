@@ -40,5 +40,3 @@
 ###
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanUA&layout=compact&theme=radical)
-
-![Usman Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanUA&show_icons=true&theme=radical)
