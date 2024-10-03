@@ -79,7 +79,7 @@ Multi-threaded simulation of famous dining philosophers problem in Go.
 
 - Advanced C and C++ for system-level programming (Hive Helsinki)
 - AI-driven solutions for real-world problems (Hive Helsinki)
-- Full-Stack development from FullStackOpen (University of Helsinki)
+- Quantum Computing/Programming
 
 ## 💬 Get in Touch
 - [Email](mailto:usmantarar11@gmail.com)
