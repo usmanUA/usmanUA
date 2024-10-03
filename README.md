@@ -53,7 +53,7 @@ A performant web server built from scratch using C++, focusing on concurrency an
 Containers for NGINX, WordPress, MariaDB, FTP, and Redis, designed to provide a seamless web development environment.
 
 ### 3. [cub3D](https://github.com/usmanUA/cub3D)
-A simple ray-caster.
+A C-based 3D game engine inspired by Wolfenstein 3D, simulating a first-person maze.
 
 ### 4. [minishell](https://github.com/usmanUA/minishell)
 Self-coded shell taking bash as a reference.
