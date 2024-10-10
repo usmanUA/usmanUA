@@ -45,34 +45,37 @@
 
 Here's a selection of my recent work. Check out my repositories for more details!
 
-## School Projects for learning C and C++
-### 1. [webserv](https://github.com/usmanUA/webserv)
+## C and C++
+### 1. [MCPT-MonteCarloPhotonTransport](https://github.com/usmanUA/MCPT-MonteCarloPhotonTransport)
+Simulated photon transport in water media using C++ to enhance understanding of particle interactions in biological tissues.
+
+### 2. [webserv](https://github.com/usmanUA/webserv)
 A performant web server built from scratch using C++, focusing on concurrency and optimization.
 
-### 2. [inception](https://github.com/usmanUA/inception)
+### 3. [inception](https://github.com/usmanUA/inception)
 Containers for NGINX, WordPress, MariaDB, FTP, and Redis, designed to provide a seamless web development environment.
 
-### 3. [cub3D](https://github.com/usmanUA/cub3D)
+### 4. [cub3D](https://github.com/usmanUA/cub3D)
 A C-based 3D game engine inspired by Wolfenstein 3D, simulating a first-person maze.
 
-### 4. [minishell](https://github.com/usmanUA/minishell)
+### 5. [minishell](https://github.com/usmanUA/minishell)
 Self-coded shell taking bash as a reference.
 
-### 5. [philosophers](https://github.com/usmanUA/42-philosophers)
+### 6. [philosophers](https://github.com/usmanUA/42-philosophers)
 Multi-threaded simulation of famous dining philosophers problem in C.
 
-## School Projects for learning Data Science
-### 6. [MLP - Multilayer Perceptron](https://github.com/usmanUA/MLP-MultilayerPerceptron)
+## Data Science Projects
+### 7. [MLP - Multilayer Perceptron](https://github.com/usmanUA/MLP-MultilayerPerceptron)
 Multilayer perceptron in python using Numpy only.
 
-### 7. [DSLR - Logistic Regression](https://github.com/usmanUA/DSLR-LogisticRegression)
+### 8. [DSLR - Logistic Regression](https://github.com/usmanUA/DSLR-LogisticRegression)
 Logistic Regression model in python using Numpy only.
 
-## Side Project for learning Go
-### 8. [REST API with Go](https://github.com/usmanUA/go-REST-API)
+## Go Projects
+### 9. [REST API with Go](https://github.com/usmanUA/go-REST-API)
 A RESTful API built using Go, designed for high performance and scalability, with a focus on clean code practices.
 
-### 9. [philosophers](https://github.com/usmanUA/42-philosophers)
+### 10. [philosophers](https://github.com/usmanUA/42-philosophers)
 Multi-threaded simulation of famous dining philosophers problem in Go.
 
 ## 🧠 What I’m Learning
