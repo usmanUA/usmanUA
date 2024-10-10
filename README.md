@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img src="https://en.m.wikipedia.org/wiki/File:PyTorch_logo_black.svg" height="40" alt="pytorch logo" />
+  <img src="[https://en.m.wikipedia.org/wiki/File:PyTorch_logo_black.svg](https://raw.githubusercontent.com/pytorch/pytorch/479bd1f30000d50ba14aa4acad2c61bafc85d06f/docs/source/_static/img/pytorch-logo-dark.svg)" height="40" alt="pytorch logo" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" height="50" alt="docker logo" />
 </div>
 
