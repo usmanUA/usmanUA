@@ -45,7 +45,7 @@
 
 Here's a selection of my recent work. Check out my repositories for more details!
 
-## C and C++
+## C and C++ Projects
 ### 1. [MCPT-MonteCarloPhotonTransport](https://github.com/usmanUA/MCPT-MonteCarloPhotonTransport)
 Simulated photon transport in water media using C++ to enhance understanding of particle interactions in biological tissues.
 
