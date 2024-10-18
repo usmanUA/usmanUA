@@ -40,7 +40,8 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanUA&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanUA&layout=donut-vertical&theme=radical&langs_count=10)
+
 
 # 🚀 Projects
 
