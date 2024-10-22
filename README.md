@@ -40,7 +40,7 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanUA&layout=donut-vertical&theme=buefy&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanUA&layout=donut-vertical&theme=buefy&langs_count=8)
 
 
 # 🚀 Projects
