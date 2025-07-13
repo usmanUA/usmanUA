@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
@@ -80,11 +82,12 @@ A RESTful API built using Go, designed for high performance and scalability, wit
 ### 10. [philosophers](https://github.com/usmanUA/42-philosophers)
 Multi-threaded simulation of famous dining philosophers problem in Go.
 
-## 🧠 What I’m Learning
+## 🧠 What I'm Learning
 
 - Advanced C and C++ for system-level programming (Hive Helsinki)
 - AI-driven solutions for real-world problems (Hive Helsinki)
 - Quantum Computing/Programming
+- Kotlin for Android development
 
 ## 💬 Get in Touch
 - [Email](mailto:usmantarar11@gmail.com)
@@ -96,4 +99,3 @@ When I'm not coding, I love exploring the latest trends in AI and trying out new
 ---
 
 Feel free to explore my repositories and reach out if you want to collaborate or just chat about tech!
-
